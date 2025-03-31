@@ -1,4 +1,4 @@
-# Minimal
+# Qlik Connect - Beginner Iceberg Workshop
 Runs Lakekeeper without Authentication and Authorization (unprotected). The example contains Jupyter (with Spark), Trino and Starrocks as query engines, Minio as storage and Lakekeeper connected to a Postgres database.
 
 To run the example run the following commands:
